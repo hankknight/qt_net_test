@@ -1,2 +1,2 @@
 # qt_net_test
-a network delay test tool based on qt5
+基于QT5制作的GUI界面，根据自定义的超时时间去测试当前服务器在超时时间内是否能正常发送数据至客户端。
